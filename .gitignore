@@ -1,0 +1,4 @@
+covid19-data.csv
+*.csv
+*.pyc
+*.pyo
