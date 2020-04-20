@@ -11,6 +11,7 @@ notebook = "*"
 pandas = "*"
 requests = "*"
 beautifulsoup4 = "*"
+ipympl = "*"
 
 [requires]
 python_version = "3.6"
